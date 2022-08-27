@@ -1,6 +1,6 @@
 # BASIC CONFIGURATION
 
-- **RUN** --> npx eslint init
+- **RUN** --> npx eslint --init
 
 - How would you like to use ESLint ?
   - To check syntax, find problems, and enforce code style
